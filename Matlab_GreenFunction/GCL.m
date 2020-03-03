@@ -1,6 +1,6 @@
 function [GF,Fai,W,A] = GCL(x, y, S, nmax, mmax)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% GreenCylindersLaplace package by Deng Rujia                            %%%
+%%% GreenCylindersLaplace package by Rujia Deng                            %%%
 %%% This main function evaluates the Green function G(x,y)                 %%%
 %%% INPUT:                                                                 %%%
 %%%    x is a matrix of size o x 3 of o points at which G is evaluated     %%%
